@@ -1,4 +1,4 @@
-# How to running your first test script with MOA in eclipse.
+# How to running your first test code with MOA in eclipse.
 
 First of all, download the MOA in https://sourceforge.net/projects/moa-datastream/, futhermore extract the following folders of the zip file: "lib" and "src" in some folder. 
 
