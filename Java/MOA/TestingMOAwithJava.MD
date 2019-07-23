@@ -4,7 +4,7 @@ First of all, download the MOA in https://sourceforge.net/projects/moa-datastrea
 
 Next,open your eclipse, then create a new java project.
 
-Click with right mouse in your project, and go to Java Build Path, then go to the "Libraries" tab, then click in the "Add External JARs..." button. After that, select all the files into the "lib" and "src".
+Click with right mouse in your project and click in properties, next go to Java Build Path, then go to the "Libraries" tab, then click in the "Add External JARs..." button. After that, select all the files into the "lib" and "src".
 
 ![PrintScreen of the properties of the project](https://raw.githubusercontent.com/ricknunesmendes/Tutoriais/master/Java/MOA/Screenshot%20from%202019-07-23%2020-28-56.png)
 
