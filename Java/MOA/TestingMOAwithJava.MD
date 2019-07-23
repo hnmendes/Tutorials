@@ -13,6 +13,7 @@ Then create a simple package in your java project, after that, create a class ca
 As well, copy this code, and run your MOA code:
 
 ```
+//package somepackage;
 import moa.classifiers.trees.HoeffdingTree;
 import moa.classifiers.Classifier;
 import moa.core.TimingUtils;
