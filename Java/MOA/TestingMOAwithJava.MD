@@ -65,3 +65,5 @@ public class Experiment {
 If the output is like that:
 
 ![Sucessfully screen](https://raw.githubusercontent.com/ricknunesmendes/Tutoriais/master/Java/MOA/Screenshot%20from%202019-07-23%2020-46-50.png)
+
+You done!
